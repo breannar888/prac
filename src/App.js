@@ -1,6 +1,4 @@
-  
-function App() {
-  return (
+<html>
     <div>
         <p>
           Edit <code>src/App.js</code> and save to reload.
@@ -14,8 +12,7 @@ function App() {
           Learn React
         </a>
     </div>
-  );
-}
+</html>
 
-export default App;
+
 

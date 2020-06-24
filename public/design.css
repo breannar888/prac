@@ -40,12 +40,12 @@ nav ul li
 
 nav ul li.current-menu-item
 {
-	background:#b8e3bb;
+	background:#8C8C8C;
 }
 
 nav ul li:hover
 {
-	background: white;
+	background:#8C8C8C;
 }
 
 nav ul ul
